@@ -11,7 +11,7 @@
 <a href="https://github.com/AJAYKR00KJ"><img alt="GitHub followers" src="https://img.shields.io/github/followers/AJAYKR00KJ?label=Follow%20on%20Github&style=for-the-badge"></a> [![Twitter Follow](https://img.shields.io/twitter/follow/error_espiral?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=error_espiral)
 ---  
 <!-- Repo Card --->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shivammaniharsahu&repo=Food-Filler&description="Hola")](https://github.com/AJAYKR00KJ/Food-Filler)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AJAYKR00KJ&repo=hackmaniacs&description="Hola")](https://github.com/AJAYKR00KJ/hackmaniacs)
 <!-- Statastics -->
 ![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=AJAYKR00KJ&show_icons=true&theme=vision-friendly-dark)
 <!-- language used -->
