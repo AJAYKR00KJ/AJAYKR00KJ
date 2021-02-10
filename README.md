@@ -3,10 +3,10 @@
 ### I'm a Undergraduation student, Programmer, Developer !!
 
 - 🔭 I’m currently working as Technical Content Writer [@ajaykr00kj](https://auth.geeksforgeeks.org/user/ajaykr00kj/articles) at GFG.
-- 🌱 I’m currently learning PHP, MySQL. 
-- 🤔 I’m looking for help with backend side. 
-- 📫 How to reach me: Twitter 
-- ⚡ Fun fact: Enjoy Your Work
+- 🌱 I’m currently learning PHP, MySQL, Authentications. 
+- 🤔 I’m looking for help with server end. 
+- 📫 How to reach me: Twitter, LinkedIn. 
+- ⚡ Fun fact: Enjoy Your Work.
 --- 
 <a href="https://github.com/AJAYKR00KJ"><img alt="GitHub followers" src="https://img.shields.io/github/followers/AJAYKR00KJ?label=Follow%20on%20Github&style=for-the-badge"></a> [![Twitter Follow](https://img.shields.io/twitter/follow/error_espiral?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=error_espiral)
 ---  
