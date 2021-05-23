@@ -1,6 +1,5 @@
  
-## Hi there 👋,  I'm Ajay Kumar :)
-### I'm a Undergraduation student, Programmer, Developer !!
+## Hi there 👋,  I'm Ajay Kumar :) 
 
 - 🔭 CSE, Prefinalyear NITRR
 - 🔗 Technical Content Writer [@ajaykr00kj](https://auth.geeksforgeeks.org/user/ajaykr00kj/articles) at GFG.
