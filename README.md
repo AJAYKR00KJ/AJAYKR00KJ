@@ -2,9 +2,10 @@
 ## Hi there 👋,  I'm Ajay Kumar :)
 ### I'm a Undergraduation student, Programmer, Developer !!
 
-- 🔭 I’m currently working as Technical Content Writer [@ajaykr00kj](https://auth.geeksforgeeks.org/user/ajaykr00kj/articles) at GFG.
-- 🌱 I’m currently learning as well as working on PHP, MySQL, Authentications. 
-- 🤔 I’m looking for help with server end. 
+- 🔭 CSE, Prefinalyear NITRR
+- 🔗 Technical Content Writer [@ajaykr00kj](https://auth.geeksforgeeks.org/user/ajaykr00kj/articles) at GFG.
+- 🌱 I’m currently learning as well as working in Django-tech stack, SQL, Postgres and Authentications part. 
+- 🤔 Looking for help with server end. 
 - 📫 How to reach me: [@LinkedIn](https://www.linkedin.com/in/ajaykr00kj/), [@Twitter](https://twitter.com/error_espiral). 
 
 - ⚡ Fun fact: Enjoy Your Work, Keep exploring.
