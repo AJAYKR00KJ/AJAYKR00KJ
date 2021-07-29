@@ -1,7 +1,7 @@
  
 ## Hi there 👋,  I'm Ajay Kumar :) 
 
-- 🔭 CSE, Prefinalyear NITRR
+- 🔭 CSE, Finalyear NITRR
 - 🔗 Technical Content Writer [@ajaykr00kj](https://auth.geeksforgeeks.org/user/ajaykr00kj/articles) at GFG.
 - 🌱 I’m currently learning as well as working in Django-tech stack, SQL, Postgres and Authentications part. 
 - 🤔 Looking for help with server end. 
