@@ -2,7 +2,7 @@
 ## Hi there 👋,  I'm Ajay Kumar :) 
 
 - 🔭 CSE, Finalyear NITRR
-- 🔗 Technical Content Writer [@ajaykr00kj](https://auth.geeksforgeeks.org/user/ajaykr00kj/articles) at GFG.
+- 🔗 For more info, visit here. [@ajaykumar](http://ajaykr.me/Portfolio/).
 - 🌱 I’m currently learning as well as working in Django-tech stack, SQL, Postgres and Authentications part. 
 - 🤔 Looking for help with server end. 
 - 📫 How to reach me: [@LinkedIn](https://www.linkedin.com/in/ajaykr00kj/), [@Twitter](https://twitter.com/error_espiral). 
@@ -21,9 +21,9 @@
 
 --- 
 
-### Spotify Playing 🎧 Let's enjoy and start our work with it.
+<!-- ### Spotify Playing 🎧 Let's enjoy and start our work with it.
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="300" />](https://open.spotify.com/user/8onrdk6vopli7ynhteiyqpzu5)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="300" />](https://open.spotify.com/user/8onrdk6vopli7ynhteiyqpzu5) -->
 
 --- 
 
