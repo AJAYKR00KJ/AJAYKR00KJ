@@ -5,11 +5,11 @@
 - 🔗 For more info, visit here. [@ajaykumar](http://ajaykr.me/Portfolio/).
 - 🌱 I’m currently learning as well as working in Django-tech stack, SQL, Postgres and Authentications part. 
 - 🤔 Looking for help with server end. 
-- 📫 How to reach me: [@LinkedIn](https://www.linkedin.com/in/ajaykr00kj/), [@Twitter](https://twitter.com/error_espiral). 
+- 📫 How to reach me: [@LinkedIn](https://www.linkedin.com/in/ajaykr00kj/), [@Twitter](https://twitter.com/ajay_ku_m_ar). 
 
 - ⚡ Fun fact: Enjoy Your Work, Keep exploring.
 --- 
-<a href="https://github.com/AJAYKR00KJ"><img alt="GitHub followers" src="https://img.shields.io/github/followers/AJAYKR00KJ?label=Follow%20on%20Github&style=for-the-badge"></a> [![Twitter Follow](https://img.shields.io/twitter/follow/error_espiral?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=error_espiral)
+<a href="https://github.com/AJAYKR00KJ"><img alt="GitHub followers" src="https://img.shields.io/github/followers/AJAYKR00KJ?label=Follow%20on%20Github&style=for-the-badge"></a> [![Twitter Follow](https://img.shields.io/twitter/follow/ajay_ku_m_ar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ajay_ku_m_ar)
 ---  
 <!-- Repo Card --->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AJAYKR00KJ&repo=hackmaniacs&description="Hola")](https://github.com/AJAYKR00KJ/hackmaniacs)
@@ -70,7 +70,7 @@
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: https://twitter.com/error_espiral
+[1]: https://twitter.com/ajay_ku_m_ar
 [2]: https://www.facebook.com/profile.php?id=100028207484220
 [3]: https://www.instagram.com/ajaykr_kj000/
 [4]: https://www.linkedin.com/in/ajaykr00kj/
